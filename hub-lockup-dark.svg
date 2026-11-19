@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 64" width="340" height="64"><g><rect x="8" y="8" width="52" height="52" rx="10" fill="#1C1F26"/><rect x="4" y="4" width="52" height="52" rx="10" fill="#1BA3E6" stroke="#1C1F26" stroke-width="1.5"/>
+    <g transform="translate(4.22, 0) skewX(-8)" stroke="#F6F5F0" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <line x1="15" y1="21" x2="45" y2="21"/>
+      <line x1="15" y1="30" x2="45" y2="30"/>
+      <line x1="15" y1="39" x2="45" y2="39"/>
+      <line x1="30" y1="14" x2="30" y2="17.5"/>
+      <line x1="30" y1="24.5" x2="30" y2="26.5"/>
+      <line x1="30" y1="33.5" x2="30" y2="35.5"/>
+      <line x1="30" y1="42.5" x2="30" y2="46"/>
+    </g></g><text x="76" y="41" font-family="'Libre Baskerville', Georgia, serif" font-size="27" font-weight="700" fill="#F6F5F0" letter-spacing="-0.2">Student Hub</text></svg>
