@@ -1,1 +1,0 @@
-import{t as o}from"./logic.DH01qQWL.js";const d=o();for(const t of document.querySelectorAll(".rv-day[data-date]")){if(t.dataset.date!==d)continue;t.classList.add("is-today");const a=t.querySelector("[data-today]");a&&(a.hidden=!1)}
